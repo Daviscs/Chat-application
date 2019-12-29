@@ -1,2 +1,2 @@
 # Chat-application
-Allows users to interact with each other
+A web application that allows users to join rooms and chat with each other. Created using NodeJS and React
